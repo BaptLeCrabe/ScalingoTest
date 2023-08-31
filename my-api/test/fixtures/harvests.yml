@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-08-31 10:06:08
+  weight: 1.5
+  hive: one
+
+two:
+  date: 2023-08-31 10:06:08
+  weight: 1.5
+  hive: two
